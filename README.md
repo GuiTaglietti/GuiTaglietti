@@ -4,7 +4,9 @@
 <h3 align="left">Some experiences</h3>
 <p align="left">
   I have worked in some projects at the computer science degree, teaching competitive progamming, OOP, data structures and more using C++.<br>
+  <br>
   I've also teached web development for some students that are searching opportunities to get a job.<br>
+  <br>
   I have some good experience with OOP programming, frameworks, development (Especially web and  C++ development), data science with python using pandas
   and competitive programming.<br>
   <br>
