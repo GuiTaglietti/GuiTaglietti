@@ -12,7 +12,7 @@
   <br>
   You can check some programming languages, frameworks and tools that i've worked/studied below...<br>
   <br>
-  Thanks for your atention, enjoy!
+  Thanks for your atention! Enjoy the content!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
