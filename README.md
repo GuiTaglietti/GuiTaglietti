@@ -3,12 +3,15 @@
 
 <h3 align="left">Some experiences</h3>
 <p align="left">
+  Computer science student at Universidade de Passo Fundo (UPF)<br>
+  <br>
   I have worked in some projects at the computer science degree, teaching competitive progamming, OOP, data structures and more using C++.<br>
   <br>
   I've also teached web development for some students that are searching opportunities to get a job.<br>
   <br>
-  I have some good experience with OOP programming, frameworks, development (Especially web and  C++ development), data science with python using pandas
-  and competitive programming.<br>
+  I have some good experience with OOP, frameworks, development (especially web and C++), some data science experience with python using pandas, matplotlib and numpy.   <br>
+  <br>
+  I used to do competivive programming and study graphs, dynamic programming, paradigms, data structures and more, practicing in codeforces and beecrowd!<br>
   <br>
   You can check some programming languages, frameworks and tools that i've worked/studied below...<br>
   <br>
