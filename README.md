@@ -13,7 +13,7 @@
   <br>
   I have some good experience with OOP, frameworks, development (especially web and C++), some data science experience with python using pandas, matplotlib and numpy.   <br>
   <br>
-  I used to do competivive programming and study graphs, dynamic programming, paradigms, advanced data structures and more<br>
+  I used to do competivive programming and study graphs, dynamic programming, paradigms, advanced data structures and more...<br>
   <br>
   You can check some programming languages, frameworks and tools that i've worked/studied below...<br>
   <br>
