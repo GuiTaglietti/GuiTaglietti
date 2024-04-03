@@ -1,17 +1,19 @@
 <h1 align="center">Hello there 👋, i'm Guilherme M. Taglietti</h1>
-<h3 align="center">Competitive progamming enthusiast and constantly studying full-stack development (especially back-end) to improve every day...</h3>
+<h3 align="center">Backend software developer - Competitive Programming</h3>
 
 <h3 align="left">Some experiences</h3>
 <p align="left">
   Computer science student at Universidade de Passo Fundo (UPF)<br>
   <br>
-  I have worked in some projects at the computer science degree, teaching competitive progamming, OOP, data structures and more using C++.<br>
+  I have worked in some projects at the computer science degree, teaching competitive progamming, OOP, data structures and more using C++. I've also teached web development for some students that are searching opportunities to get a job.  
   <br>
-  I've also teached web development for some students that are searching opportunities to get a job.<br>
+  <br>
+  I've worked with genetic algorithms in C++ used to generate the best possible university timetable, alongside with research, big databases and Python data validation scripts.
+  <br>
   <br>
   I have some good experience with OOP, frameworks, development (especially web and C++), some data science experience with python using pandas, matplotlib and numpy.   <br>
   <br>
-  I used to do competivive programming and study graphs, dynamic programming, paradigms, data structures and more, practicing in codeforces and beecrowd!<br>
+  I used to do competivive programming and study graphs, dynamic programming, paradigms, advanced data structures and more<br>
   <br>
   You can check some programming languages, frameworks and tools that i've worked/studied below...<br>
   <br>
