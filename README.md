@@ -1,24 +1,68 @@
-<h1 align="center">Hello there 👋, i'm Guilherme M. Taglietti</h1>
-<h3 align="center">Backend software developer - Competitive Programming</h3>
+<h1 align="center">Hello 👋, I'm Guilherme Martinelli Taglietti</h1>
+<h3 align="center">Backend Software Engineer • Distributed Systems • AI & High-Performance Computing</h3>
 
-<h3 align="left">Some experiences</h3>
+---
+
+### 👨‍💻 About Me
+
+Backend Software Engineer with a **Bachelor’s degree in Computer Science (BSc)** from **Universidade de Passo Fundo (UPF)**.  
+I specialize in **distributed backend systems**, **scalable microservices**, and **AI/LLM-powered architectures**, with a strong background in **high-performance computing and algorithm optimization**.
+
+My core experience is centered on **Python backend development**, building **microservices and APIs** using FastAPI and Flask, with asynchronous processing, background jobs, queues, and workers powered by Redis and Celery. I actively work on **AI and LLM integrations**, enabling intelligent workflows and automation within backend systems.
+
+I also have a solid academic and practical background in **C++**, having developed **genetic algorithms** and optimized solutions using **parallelism, multithreading, and advanced data structures**, including research and real-world applications for university timetabling.
+
+Beyond backend engineering, I have experience with **cloud infrastructure and DevOps**, including Linux-based environments, Docker, Docker Compose, CI/CD pipelines, and AWS deployments.
+
+I’m a former **competitive programming enthusiast**, with deep knowledge of **algorithms, data structures, graph theory, dynamic programming, and complexity analysis**, and I have experience teaching and mentoring students in these topics.
+
+---
+
+### 🧠 Areas of Focus
+
+- Backend Engineering & Distributed Systems  
+- Microservices Architecture & Asynchronous Processing  
+- AI / LLM Integrations (LangChain, LangGraph, automation workflows)  
+- High-Performance Computing & Genetic Algorithms (C++)  
+- Cloud Infrastructure, Containers & Production Deployments  
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-  Computer science student at Universidade de Passo Fundo (UPF)<br>
-  <br>
-  I have worked in some projects at the computer science degree, teaching competitive progamming, OOP, data structures and more using C++. I've also teached web development for some students that are searching opportunities to get a job.  
-  <br>
-  <br>
-  I've worked with genetic algorithms in C++ used to generate the best possible university timetable, alongside with research, big databases and Python data validation scripts.
-  <br>
-  <br>
-  I have some good experience with OOP, frameworks, development (especially web and C++), some data science experience with python using pandas, matplotlib and numpy.   <br>
-  <br>
-  I used to do competivive programming and study graphs, dynamic programming, paradigms, advanced data structures and more...<br>
-  <br>
-  You can check some programming languages, frameworks and tools that i've worked/studied below...<br>
-  <br>
-  Thanks for your atention! Enjoy the content!
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 🏆 Competitive Programming
+
+- Former competitive programmer (SBC/ICPC, OBI)
+- Strong background in algorithms, data structures, and complexity analysis
+- Beecrowd profile:  
+  https://judge.beecrowd.com/pt/profile/625773
+
+---
+
+### 📫 Contact
+
+- Email: **guiitaglietti@gmail.com**
+- LinkedIn: https://linkedin.com/in/guilherme-taglietti
+- GitHub: https://github.com/GuiTaglietti
+
+---
+
+Thanks for visiting my profile! 🚀  
+Feel free to explore my repositories and projects.
